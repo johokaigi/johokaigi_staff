@@ -24,12 +24,12 @@ Slackの使い方はこちらを御覧ください。と、いうものを作る
 
 ## 流れ1
 
-- issueをだれかが立てる
+- [issueをだれかが立てる](https://github.com/johokaigi/johokaigi_staff/blob/master/issue.md)
 - 勝手に取る→できそうなのがあったらとってください
 
 ## 流れ2
 
-- issueをだれかが立てる。
+- [issueをだれかが立てる。](https://github.com/johokaigi/johokaigi_staff/blob/master/issue.md)
 - Slackでこれやってもらえませんかって打診する。（だれでもやっていい）
 　- （公式ページにのせる情報はレビューを入れる）
  -（金銭的コストがかかるものについてはレビューをいれる）
